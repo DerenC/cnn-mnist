@@ -1,0 +1,9 @@
+[project]
+name = "cnn-mnist"
+version = "0.1.0"
+description = "This project teaches me about CNN using the MNIST dataset."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "tensorflow>=2.20.0",
+]
